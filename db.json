@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "name": "Harry Potter",
+      "city": "London",
+      "id": 1
+    },
+    {
+      "name": "Don Quixote",
+      "city": "Madrid",
+      "id": 2
+    },
+    {
+      "name": "Joan of Arc",
+      "city": "Paris",
+      "id": 3
+    },
+    {
+      "name": "asd jun",
+      "city": "xxdfs",
+      "id": 6
+    },
+    {
+      "name": "piyush",
+      "city": "mayanagari",
+      "id": 9
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
